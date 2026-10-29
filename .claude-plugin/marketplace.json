@@ -1,5 +1,6 @@
 {
   "name": "aitotalrecall",
+  "description": "AI Total Recall: a memory cockpit for Claude Code. See what your assistant recalled, learned and is bound by, and search memory without spending tokens.",
   "owner": { "name": "Scott Crawford" },
   "plugins": [{ "name": "aitotalrecall", "source": "./" }]
 }
