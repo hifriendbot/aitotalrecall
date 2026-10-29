@@ -1299,7 +1299,7 @@ export const register: Register = on => {
       }
     }
 
-    const lifeLine = `lifetime · ${life.recalls.toLocaleString()} recalled · ${life.saves.toLocaleString()} saved · ${life.sessions.toLocaleString()} ${life.sessions === 1 ? 'session' : 'sessions'}`
+    const lifeLine = `lifetime · ${life.recalls.toLocaleString()} recalled · ${life.saves.toLocaleString()} saved · ${life.sessions.toLocaleString()} ${life.sessions === 1 ? 'session' : 'sessions'} · aitotalrecall.com`
 
     return (
       <Box flexDirection="column" width={width} paddingX={1}>
