@@ -1,0 +1,5 @@
+{
+  "name": "aitotalrecall",
+  "owner": { "name": "Scott Crawford" },
+  "plugins": [{ "name": "aitotalrecall", "source": "./" }]
+}

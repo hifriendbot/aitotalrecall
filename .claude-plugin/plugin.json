@@ -1,0 +1,8 @@
+{
+  "name": "aitotalrecall",
+  "version": "0.2.0",
+  "homepage": "https://aitotalrecall.com",
+  "description": "AI Total Recall: a memory cockpit for your assistant. See what it recalled, learned and is bound by, live, in a pane and a band above the prompt, and search memory without spending tokens.",
+  "author": { "name": "Scott Crawford" },
+  "types": "./types/index.d.ts"
+}
